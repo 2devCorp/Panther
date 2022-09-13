@@ -1,15 +1,16 @@
-"fondos de pantalla" : [
+{
+  "fondos de pantalla" : [
    {
-    "autor" : " Unsplash" ,
+    "autor" : " Unsplash " ,
       "url" : " https://raw.githubusercontent.com/2devCorp/Panther-Fondos-de-pantalla-/Maestro/Wall%20001.png " ,
       "nombre" : " Pared 001 " ,
       "miniatura" : " https://raw.githubusercontent.com/2devCorp/Panther-Fondos-de-pantalla-/Maestro/Wall%20001.png "
     },
     {
-    "autor" : " Saro Rindone " ,
+    "autor" : " Unsplash " ,
       "url" : " https://raw.githubusercontent.com/2devCorp/Panther-Fondos-de-pantalla-/Maestro/Wall%20002.png " ,
       "nombre" : " Pared 002 " ,
       "miniatura" : " https://raw.githubusercontent.com/2devCorp/Panther-Fondos-de-pantalla-/Maestro/Wall%20002.png "
-      }
-    ]
-    }
+     }
+     ]
+}
