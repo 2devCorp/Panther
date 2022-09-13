@@ -2,16 +2,15 @@
   "wallpapers": [
    {
     "author": "Unsplash",
-      "url": "https://raw.githubusercontent.com/2devCorp/Panther-Fondos-de-pantalla-/Maestro/Wall%20001.png",
+      "url": "https://raw.githubusercontent.com/2devCorp/Panther/Maestro/Wall%20001.png",
       "name": "Wall 001",
-      "thumbnail": "https://raw.githubusercontent.com/2devCorp/Panther-Fondos-de-pantalla-/Maestro/Wall%20001.png"
+      "thumbnail": "https://raw.githubusercontent.com/2devCorp/Panther/Maestro/Wall%20001.png"
     },
     {
     "author": "Unsplash",
-      "url": "https://raw.githubusercontent.com/2devCorp/Panther-Fondos-de-pantalla-/Maestro/Wall%20002.png", 
+      "url": "https://raw.githubusercontent.com/2devCorp/Panther/Maestro/Wall%20002.png", 
       "name": "Wall 002",
-      "thumbnail": "https://raw.githubusercontent.com/2devCorp/Panther-Fondos-de-pantalla-/Maestro/Wall%20002.png"   
+      "thumbnail": "https://raw.githubusercontent.com/2devCorp/Panther/Maestro/Wall%20002.png"   
     }
     ]
  }
- 
